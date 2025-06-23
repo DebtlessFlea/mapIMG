@@ -1,6 +1,8 @@
 ## 📋 Description
 **mapIMG** (Map Imagine) is a Python script that allows you to mark an entered location on an interactive map.
 
+![Preview](assets/1.png)
+
 ## ❓ How to Use
 
 ### Prerequisites:
