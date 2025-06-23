@@ -10,13 +10,11 @@
 ### Steps:
 
 1. Install `geopy` and `folium`.
-   
 ```bash
 pip install geopy folium
 ```
 
 2. Run the script.
-
 ```bash
 python mapIMG.py
 ```
