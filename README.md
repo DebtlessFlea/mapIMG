@@ -20,7 +20,6 @@ python mapIMG.py
 ```
 
 3. Enter a location.
-4. The map should open automatically.
 
 ## 🌐 Statistics
 ![Alt](https://repobeats.axiom.co/api/embed/90900b881178280ffba351a9d7bf7812df57f31a.svg "Repobeats analytics image")
